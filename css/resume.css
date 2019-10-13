@@ -215,3 +215,18 @@ a:hover, a:focus, a:active {
 .jumbotron {
     padding: 2rem 1rem !important;
 }
+
+.left-to-right{
+    text-align: left;
+    direction: ltr;
+}
+
+.download-button{
+    font-size: 14px;
+}
+
+.badge-pill{
+    font-size: 13px;
+    padding: .5em 1em .5em 1em;
+    margin: 0.3em;
+}
